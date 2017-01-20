@@ -1,8 +1,0 @@
-# QDD
-QDD
-echo "# QDD" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/lbq2016/QDD.git
-git push -u origin master
